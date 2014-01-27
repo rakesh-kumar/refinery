@@ -5,7 +5,6 @@ module Refinery
 
         crudify :'refinery/events/event',
                 :xhr_paging => true
-                debugger
 
       end
     end
